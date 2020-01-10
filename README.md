@@ -1,4 +1,4 @@
 # Laravel---CRUD
-A Laravel project including the full directory
+A Laravel project implementing a crud example.
 
-The folder "database" contains the folder "migrations" which contains all the tables of the project's database. Respectively the folder "crud" conatins the folder database with crud's tables. In addition the php code for the CRUD implementation is in "resources/views" of the main dir.
+The folder "database" contains the folder "migrations" which contains all the tables of the project's database. Respectively the folder "crud" contains the php code for the CRUD implementation  "resources/views".
